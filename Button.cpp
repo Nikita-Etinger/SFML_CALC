@@ -57,6 +57,6 @@ std::string Button::update(sf::Vector2i mousePos, bool isMouseButtonPressed)
         rectangle.setFillColor(color_b);
     }
 
-    return returnValue; // Возвращение значения из функции
+    return returnValue; 
 } 
 
